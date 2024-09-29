@@ -25,7 +25,7 @@ The **React Firebase Chat App** is a real-time web messaging application that le
 - **File Sharing**: Supports image and audio message sharing.
 - **Voice Messages**: Users can record and send voice messages directly in the chat.
 - **User Authentication**: Secure user authentication through Firebase.
-- **Customizable Audio Messages**: Easily customized player styling for audio messages.
+
 
 ## 🗂️ Directory Structure
 - **`/src`**: Contains all the app’s source code.
